@@ -1,0 +1,139 @@
+body {
+	font-family: "Montserrat";
+	background: #00b09b;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #96c93d, #00b09b);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #96c93d, #00b09b); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+
+h1 {
+	text-align: center;
+	font-family: Roboto;
+	color: red;
+	text-shadow: 2px 1px 1px yellow;
+}
+
+.h1change {
+	text-align: center;
+	font-family: Roboto;
+	color: green;
+	text-shadow: 2px 1px 1px blue;
+}
+
+/*#mathPic {
+	background: url("math.jpg") no-repeat center center fixed;
+	background-size: cover;
+	height: 300px;
+}*/
+
+.seat {
+	float: left;
+	background: #0099F7;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #F11712, #0099F7);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #F11712, #0099F7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	width: 9%;
+	margin: 1%;
+	padding: 2px;
+	text-align: center;
+	border: 1px solid red;
+	height: 60px;
+	font-weight: bold;
+	font-size: 80%;
+}
+
+#container {
+	width: 600px;
+	margin: 20px auto;
+	border: 2px solid green;
+	padding: 3px;
+}
+
+
+div#nameList ul li {
+	font-weight: bold;
+	color: #eeff05;
+	text-align: center;
+	list-style: none;
+	margin: 0 auto;
+	border: 2px solid gray;
+	box-shadow: 5px 5px 5px rgba(200, 200, 200, 0.8);
+	width: 300px;
+	padding: 0; 
+	}
+
+span {
+	color: blue;
+
+}
+
+#stripe {
+	margin: 0 auto;
+	border: 2px solid steelblue;
+	width: 800px;
+	padding: 5px;
+}
+
+.contain {
+	text-align: center;
+	font-weight: bold;
+	margin: 0 auto;
+	border: 1px solid gray;
+	width: 30%;
+	height: 40%;
+	padding: 1px;
+	color: blue;
+	text-shadow: 2px 1px 1px yellow;
+	}
+	
+.contain2 {
+	text-align: center;
+	font-weight: bold;
+	margin: 0 auto;
+	margin-top: 20%;
+	border: 1px solid gray;
+	width: 30%;
+	height: 40%;
+	padding: 1px;
+	color: blue;
+	text-shadow: 2px 1px 1px yellow;
+	}
+
+button {
+	text-align: center;
+	color: purple;
+	margin: 0 auto;
+	margin-top: 20px;
+	background: #42c5f4;
+	border: 2px solid blue;
+}
+
+button:hover {
+	border: 2px solid green;
+	font-weight: bold;
+}
+
+button#generate {
+	font-family: "Montserrat";
+	font-size: 100%;
+	margin: 10px;
+}
+
+#generate, #reset {
+	font-size: 100%;
+	display: inline-block;
+}
+
+input {
+	text-align: center;
+	margin: 20px;
+	font-size: 100%;
+
+}
+
+
+.king {
+	background: #1a2a6c;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #fdbb2d, #b21f1f, #1a2a6c);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #fdbb2d, #b21f1f, #1a2a6c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
